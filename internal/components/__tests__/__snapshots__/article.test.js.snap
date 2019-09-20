@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Article Child Component should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "white",
+      "borderRadius": 2,
+      "marginBottom": 6,
+      "padding": 4,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "flexWrap": "wrap",
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+    testID="article__title"
+  >
+    
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 12,
+      }
+    }
+    testID="article__published-at"
+  >
+    
+  </Text>
+  <Text
+    style={
+      Object {
+        "flexWrap": "wrap",
+        "fontSize": 14,
+        "marginBottom": 4,
+        "marginTop": 4,
+      }
+    }
+    testID="article__content"
+  >
+    
+  </Text>
+</View>
+`;
